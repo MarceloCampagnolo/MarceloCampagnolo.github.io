@@ -1,0 +1,66 @@
+.titulo{
+text-align:center;
+background-image: url(../img/sobre-background.jpg);
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+width: 940px;
+font-size:200%;
+color: #0016CD;
+}
+
+h1 {
+font-family: "Times New Roman", Times, serif;
+}
+p{
+color: #E13C03;
+font-size:130%;
+font-family: "Times New Roman", Times, serif;
+margin-left: auto;
+}
+body {
+background-color: #BAE8FF;
+margin-left: auto;
+margin-right: auto;
+width: 940px;
+font-family: times new roman;
+}
+
+ul{
+color: #E13C03;
+font-size:130%;
+font-family: "Times New Roman", Times, serif;
+margin-left: auto;
+}
+ol{
+color: #E13C03;
+font-size:130%;
+font-family: "Times New Roman", Times, serif;
+margin-left: auto;
+}
+
+img{
+width: 60%;
+height: 60%;
+margin-top: 20px;
+margin-left: 90px;
+border-radius:50%;
+background-color: #CFCFCF;
+border: 10px solid gray;
+}
+
+figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+}
+
+#lista{
+	background-color: #D9DC51;
+	
+}
